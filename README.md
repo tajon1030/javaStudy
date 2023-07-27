@@ -6,7 +6,7 @@ Java Study
 * **주제** : Java
 * **목표** : Java의 정석 완독
 * **기간** : 2023-08-07 ~ 미정
-* **참가자(2명)** : 
+* **참가자(5명)** : 
 * **스터디 시간** : 
 * **스터디 장소** : 온라인 디스코드
 
@@ -23,17 +23,14 @@ Java Study
 ## :arrow_forward: 스터디 세부 일정
 | 순번 | 목차              | 시작일자 | 종료일자 |  |  |
 | ------: | :---------------| -------|-------|:-------:|:-------:|
-| 1 | 챕터6. 객체지향 프로그래밍Ⅰ | 2023-08-07 |  | :white_check_mark: | :white_check_mark: |
-| 2 | 챕터7. 객체지향 프로그래밍Ⅱ |  |  | :white_check_mark: | :white_check_mark: |
-| 3 | 챕터8. 예외처리 |  |  | :white_check_mark: | :white_check_mark: |
-| 4 | 챕터9. java.lang 패키지와 유용한 클래스 |  |  | :white_check_mark: | :white_check_mark: |
-| 5 | 챕터10. 날짜와 시간 & 형식화 |  |  | :white_check_mark: | :white_check_mark: |
-| 6 | 챕터11. 컬렉션 프레임웍 |  |  | :white_check_mark: | :white_check_mark: |
-| 7 | 챕터12. 지네릭스, 열거형, 애너테이션 |  |  | :white_check_mark: | :white_check_mark: |
-| 8 | 챕터13. 쓰레드(Thread) |  |  |:white_check_mark: | :white_check_mark: |
-| 9 | 챕터14. 람다와 스트림 |  |  | :white_check_mark: | :white_check_mark: |
-| 10 | 챕터15. 입출력(I/O) |  |  | :white_check_mark: | :white_check_mark: |
-| 11 | 챕터16. 네트워킹 |  |  | :white_check_mark: | :white_check_mark: |
+| 1 | 챕터6. 객체지향 프로그래밍Ⅰ | 2023-08-07 |  |  |  |
+| 2 | 챕터7. 객체지향 프로그래밍Ⅱ |  |  |  |  |
+| 3 | 챕터8. 예외처리 |  |  |  |  |
+| 4 | 챕터9. java.lang 패키지와 유용한 클래스 |  |  |  |  |
+| 5 | 챕터10. 날짜와 시간 & 형식화 |  |  |  |  |
+| 6 | 챕터11. 컬렉션 프레임웍 |  |  |  |  |
+| 7 | 챕터14. 람다와 스트림 |  |  |  |  |
+
 
 ## :arrow_forward: 기타
 + Java의 정석 소스 : https://github.com/castello/javajungsuk3
